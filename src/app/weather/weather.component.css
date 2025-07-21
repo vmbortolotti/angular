@@ -1,0 +1,18 @@
+.weather-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+form {
+  display: flex;
+  gap: 0.5rem;
+}
+.weather-info {
+  margin-top: 1rem;
+  text-align: center;
+}
+.error {
+  color: red;
+  margin-top: 1rem;
+}
